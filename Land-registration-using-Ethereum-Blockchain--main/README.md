@@ -45,10 +45,9 @@ step 4: Run the register.html webpage
 # Showing all vendor list of land(Khatiyan)
 ![image](https://user-images.githubusercontent.com/71628177/120554849-e1695280-c417-11eb-9c3e-a17bc01948f6.png)
 
+# End
 
-
-
-
+# -SACHIN KUMAR
 
 
 
